@@ -1,0 +1,5 @@
+main():int
+{
+    IO.write("hello world!");
+    return 0;
+}
