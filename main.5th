@@ -1,5 +1,5 @@
 main():int
 {
-    IO.write("hello world!");
+    std.print("hello world!");
     return 0;
 }
