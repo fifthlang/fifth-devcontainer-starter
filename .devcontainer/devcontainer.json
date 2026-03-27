@@ -1,6 +1,6 @@
 {
     "name": "Fifth Development",
-    "image": "ghcr.io/aabs/fifthlang/fifth:latest",
+    "image": "ghcr.io/fifthlang/fifth-devcontainer:0.10.0",
     "customizations": {
         "vscode": {
             "extensions": [
