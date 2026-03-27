@@ -13,21 +13,21 @@ No need to install compilers manually.
 3. Wait a moment while we set up your environment. ✨
 
 ### 2. Build & Run 🏃‍♂️
-We've included a `Makefile` to make your workflow smooth.
+This template uses a `main.5thproj` MSBuild project with the Fifth SDK.
 
 To **compile and run** your program immediately:
 ```bash
-make run
+dotnet run
 ```
 
 If you just want to **build**:
 ```bash
-make
+dotnet build
 ```
 
 To **clean** up build artifacts:
 ```bash
-make clean
+dotnet clean
 ```
 
 ## 📚 Useful Links
