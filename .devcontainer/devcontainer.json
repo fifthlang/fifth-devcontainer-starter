@@ -8,7 +8,7 @@
             ]
         }
     },
-    "postCreateCommand": "dotnet tool restore && dotnet tool run fifthc --version",
+    "postCreateCommand": "dotnet tool restore && fifthc --version",
     "remoteUser": "root",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
     "remoteEnv": {
